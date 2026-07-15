@@ -10,15 +10,15 @@
 #   caption, float, array, xcolor, fontspec.
 
 # Core numeric and data
-numpy>=1.24
-pandas>=2.0
-scipy>=1.10
+numpy>=2.2.6
+pandas>=2.3.3
+scipy>=1.15.3
 
 # Plotting
-matplotlib>=3.7
+matplotlib>=3.10.9
 
 # Statistics (EGARCH supplementary checks; primary EGARCH uses scipy.optimize)
-statsmodels>=0.14
+statsmodels>=0.14.6
 
 # Optional but recommended for development convenience
-ipython>=8.0
+ipython>=8.39.0
